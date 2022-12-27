@@ -7,6 +7,7 @@
             </div>
               <v-card-title>
                 {{pack.title}}
+                
             </v-card-title>
             <v-card-title class="grey--text text-grey-darken-1 caption mt-n6">
                 {{pack.subtitle}}
